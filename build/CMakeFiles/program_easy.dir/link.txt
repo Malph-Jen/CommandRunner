@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/program_easy.dir/CallingFunctionsOfCmd/easy.c.o CMakeFiles/program_easy.dir/HeaderFuncDefinition/cmdFunc.c.o CMakeFiles/program_easy.dir/HeaderMultiFuncDefinition/file.c.o -o program_easy

@@ -1,0 +1,4 @@
+/home/jano/Documents/CommandRunner/build/CMakeFiles/program_easy.dir
+/home/jano/Documents/CommandRunner/build/CMakeFiles/program_firstfile.dir
+/home/jano/Documents/CommandRunner/build/CMakeFiles/edit_cache.dir
+/home/jano/Documents/CommandRunner/build/CMakeFiles/rebuild_cache.dir

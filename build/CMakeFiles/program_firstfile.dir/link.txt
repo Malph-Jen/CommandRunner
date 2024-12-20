@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/program_firstfile.dir/CallingFunctionsOfCmd/firstfile.c.o CMakeFiles/program_firstfile.dir/HeaderFuncDefinition/cmdFunc.c.o CMakeFiles/program_firstfile.dir/HeaderMultiFuncDefinition/file.c.o -o program_firstfile
