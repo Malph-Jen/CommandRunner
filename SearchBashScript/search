@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Check if the user provided a search query
+if [ -z "$1" ]; then
+    echo "Usage: $0 <search query>"
+    exit 1
+fi
+
+# Combine all arguments into a single search string
+query=$(echo "$*" | sed 's/ /+/g')
+
+# Open the default web browser with the search query
+xdg-open "https://www.google.com/search?q=$query"
