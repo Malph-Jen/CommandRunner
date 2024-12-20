@@ -2,6 +2,7 @@
     "files.associations": {
         "stdio.h": "c",
         "iamdog.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "cmdfunc.h": "c"
     }
 }

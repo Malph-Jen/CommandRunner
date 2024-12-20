@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../HeaderFiles/iamdog.h"
+#include "../HeaderFiles/cmdFunc.h"
 
 
 int powerFunc(const char *command)
